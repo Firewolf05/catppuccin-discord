@@ -3,7 +3,7 @@
   "description": "🎮 Soothing pastel theme for Discord",
   "version": "0.0.8",
   "author": "Catppuccin",
-  "theme": "/Catppuccin.theme.css",
+  "theme": "/main.css",
   "license": "MIT",
   "consent": "true"
 }
