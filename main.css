@@ -7,7 +7,7 @@
  * @source https://github.com/catppuccin/discord
  **/
 
-:root {
+ :root {
 	/*                 H     S     L */
 	--rosewater_hsl:  10,  56%,  91%;
 	--flamingo_hsl:    0,  59%,  88%;
@@ -74,7 +74,7 @@
 	--background-mentioned: var(--mauve-o10) !important;
 	--background-mentioned-hover: var(--pink-o20) !important;
 	--background-accent: var(--gray0) !important;
-	--background-modifier-selected: var(--black2) !important;
+	--background-modifier-selected: var(--black4) !important;
 	--background-modifier-accent: var(--black2) !important;
 	--background-modifier-hover: var(--black3) !important;
 	--text-normal: var(--white) !important;
