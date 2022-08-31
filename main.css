@@ -57,6 +57,8 @@
 	--gray2: hsl(var(--gray2_hsl));
 	--white: hsl(var(--white_hsl));
 	--mauve-o10: hsl(var(--mauve_hsl), .1);
+	--peach-o10: hsl(var(--peach_hsl), .2);
+	--yellow-o10: hsl(var(--yellow_hsl), .2);
 	--pink-o20: hsl(var(--pink_hsl), .2);
 }
 
@@ -71,8 +73,8 @@
 	--background-mobile-secondary: var(--black1) !important;
 	--background-tertiary: var(--black0) !important;
 	--background-floating: var(--black2) !important;
-	--background-mentioned: var(--mauve-o10) !important;
-	--background-mentioned-hover: var(--pink-o20) !important;
+	--background-mentioned: var(--peach-o10) !important;
+	--background-mentioned-hover: var(--yellow-o10) !important; 
 	--background-accent: var(--gray0) !important;
 	--background-modifier-selected: var(--black4) !important;
 	--background-modifier-accent: var(--black2) !important;
@@ -103,7 +105,7 @@
 }
 
 .mentioned-Tre-dv::before {
-	background-color: var(--white) !important;
+	background-color: var(--yellow) !important;
 }
 
 /* Home */
